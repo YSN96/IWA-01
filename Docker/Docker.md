@@ -1,4 +1,4 @@
-# Contenedor Docker con nginx
+# Contenedor Docker con NGINX
 
 &nbsp;
 
